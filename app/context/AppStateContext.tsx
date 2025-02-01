@@ -128,7 +128,7 @@ export function AppStateProvider({ children }: { children: React.ReactNode }) {
     },
     {
       id: 2,
-      email: "saumya@example.com",
+      email: "saumya27@example.com",
       password: "password123",
       name: "Bob Smith",
       role: "Developer",
